@@ -92,7 +92,7 @@ sentry-usage-accountant==0.0.10
 orjson>=3.10.3
 
 msgpack>=1.0.7
-cryptography>=38.0.3
+cryptography>=46.0.5
 
 # Note, grpcio>1.30.0 requires setting GRPC_POLL_STRATEGY=epoll1
 # See https://github.com/grpc/grpc/issues/23796 and
